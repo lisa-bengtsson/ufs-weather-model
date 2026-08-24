@@ -2,7 +2,7 @@
   path = UFSATM
   #url = https://github.com/NOAA-EMC/ufsatm
   #branch = develop
-  url = https://github.com/lisa-bengtsson/ufsatm
+  url = https://github.com/lisa-bengtsson/fv3atm
   branch = mlm_omega
 [submodule "WW3"]
   path = WW3
